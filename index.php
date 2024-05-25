@@ -11,10 +11,10 @@
   <header>
     <nav>
       <div class="navleft">
-        <h1><a href="index.html">Tippani</a></h1>
+        <h1><a href="index.php">Tippani</a></h1>
       </div>
       <div class="navright">
-        <a href="index.login.html">Login</a>
+        <a href="index.login.php">Login</a>
       </div>
     </nav>
   </header>
@@ -23,7 +23,7 @@
       <h2>Innovate, Organize, Inspire: Tipanni – Your Digital Notebook.</h2>
     </div>
     <div class="create-note">
-      <button><a href="notes.html">Create Note</a></button>
+      <button><a href="notes.php">Create Note</a></button>
     </div>
   </div>
 </body>
