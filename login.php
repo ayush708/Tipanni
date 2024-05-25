@@ -7,7 +7,7 @@
     <style>
         .content-container{
             margin: 20em 45em;
-            padding: 100px 200px
+            padding: 100px 200px;
             width: 300px;
             height: 300px;
             background-color:gray;
